@@ -1,0 +1,32 @@
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\Database1.mdf
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\Database1_log.ldf
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe.config
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csprojAssemblyReference.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.Form1.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.Properties.Resources.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csproj.GenerateResource.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csproj.CoreCompileInputs.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe.manifest
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.application
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.exe.manifest
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.application
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\Database1.mdf
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\Database1_log.ldf
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe.config
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe.manifest
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.application
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\bin\Debug\bazaDeDate.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.exe.manifest
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.application
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\6\bazaDeDate\bazaDeDate\obj\Debug\bazaDeDate.pdb
